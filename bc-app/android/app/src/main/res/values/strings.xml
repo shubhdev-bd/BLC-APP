@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Believers Consultancy</string>
+    <string name="title_activity_main">Believers Consultancy</string>
+    <string name="package_name">com.bc.app</string>
+    <string name="custom_url_scheme">com.bc.app</string>
+</resources>

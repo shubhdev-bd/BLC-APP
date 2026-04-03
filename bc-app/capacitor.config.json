@@ -1,0 +1,9 @@
+{
+  "appId": "com.bc.app",
+  "appName": "Believers Consultancy",
+  "webDir": "dist",
+  "server": {
+    "url": "https://believersconsultancy.com",
+    "cleartext": true
+  }
+}
